@@ -65,9 +65,7 @@
 				A88F10C524B0BA6B00337D54 /* AppDelegate.swift */,
 				A88F10C724B0BA6B00337D54 /* SceneDelegate.swift */,
 				A88F10C924B0BA6B00337D54 /* ContentView.swift */,
-				A88F10D924B0EF5000337D54 /* AddOverlay.swift */,
-				A88F10DB24B0F2BB00337D54 /* OutlinedText.swift */,
-				A88F10DD24B0F33D00337D54 /* UIView+Custom.swift */,
+				A88F10DF24B0F6F500337D54 /* Components */,
 				A88F10C324B0BA6B00337D54 /* Products */,
 				A88F10CB24B0BA6E00337D54 /* Assets.xcassets */,
 				A88F10D024B0BA6E00337D54 /* LaunchScreen.storyboard */,
@@ -83,6 +81,16 @@
 				A88F10CE24B0BA6E00337D54 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		A88F10DF24B0F6F500337D54 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				A88F10D924B0EF5000337D54 /* AddOverlay.swift */,
+				A88F10DB24B0F2BB00337D54 /* OutlinedText.swift */,
+				A88F10DD24B0F33D00337D54 /* UIView+Custom.swift */,
+			);
+			path = Components;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
