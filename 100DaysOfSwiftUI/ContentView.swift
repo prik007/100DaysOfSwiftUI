@@ -23,7 +23,7 @@ struct ContentView: View {
                 .foregroundColor(.white)
                 .font(.system(size: 30, weight: .bold))
             
-            OutlinedText(text: "DELOITTE STUDIO", width: 0.5, color: .red)
+            OutlinedText(text: " 100 Days of SwiftUI ", width: 0.5, color: .red)
                 .foregroundColor(.white)
                 .font(.system(size: 30, weight: .bold))
                 .overlay(RoundedRectangle(cornerRadius: 20).stroke(Color.red, lineWidth: 5)
